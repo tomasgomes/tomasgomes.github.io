@@ -1,0 +1,32 @@
+<!doctype html>
+	<head>
+		<link rel="stylesheet" href="/assets/css/cv.css">
+		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script> <!-- include those star objects, check https://fontawesome.com/get-started-->
+	</head>
+	<body>
+		<p ><a href="{{ "/" | relative_url }}">← back to Carbon and Silicon</a></p>
+		<h1>Tomás Gomes - <i>Curriculum Vitae</i></h1>
+		<div class="wrappersec">
+		  <article class="module">
+		  	{% include cvhead.html %}
+		  </article>
+		  <article class="module">
+		  	{% include education.html %}
+		  </article>
+		  <article class="module">
+		  	{% include employment.html %}
+		  </article>
+		  <article class="module">
+		  	{% include initiatives.html %}
+		  </article>
+		  <article class="module">
+		  	{% include skills.html %}
+		  </article>
+		  <article class="module">
+		  	{% include interests.html %}
+		  </article>
+		</div>
+		
+		<p ><a href="{{ "/" | relative_url }}">← back to Carbon and Silicon</a></p>
+	</body>
+</html>
