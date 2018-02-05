@@ -31,5 +31,5 @@ This website was created using [Jekyll](https://github.com/jekyll/jekyll). You c
 
 The website's theme borrowed from [Minima](https://github.com/jekyll/minima), [vitae](https://github.com/myJekyll/vitae) and [Block-Log](https://github.com/anandubajith/block-log).
 
-Publishing had help from [this guide](https://shiring.github.io/blogging/2016/12/04/diy_your_own_blog).
+Publishing had help from [this guide](https://shiring.github.io/blogging/2016/12/04/diy_your_own_blog) and [this guide](https://medium.com/@Tnylnc/tnylnc-how-to-set-up-github-pages-with-google-domains-83bd5a4fbc5c).
 
