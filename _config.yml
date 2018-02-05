@@ -19,7 +19,7 @@ email: "tomas.pc.gomes@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   I write about biology and/or data science. Maybe other things, if I feel like it.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.carbonandsilicon.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://carbonandsilicon.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tomsgoms
 github_username:  tomasgomes
 
