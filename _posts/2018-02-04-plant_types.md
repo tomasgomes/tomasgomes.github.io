@@ -310,6 +310,8 @@ Finally, back to our initial question: What would grow in Antarctica? Well, base
 
 Remember that this was an exploratory analysis of this dataset, and followed few biological assumptions. This could probably be seen as a "null model" for plant type distributions, but obviously more rigorous measurements should be used when doing this type of analysis, since terrain coordinates only partially reflect the environment in which plants exist.
 
+
+
 Session Info:
 
 ``` r
