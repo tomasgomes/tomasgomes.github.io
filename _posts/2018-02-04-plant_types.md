@@ -309,9 +309,9 @@ They look mostly similar! We can straight up see that these are not great models
 Finally, back to our initial question: What would grow in Antarctica? Well, based on this last map, we see that there would be a large divide between herbs in the low lands and shrubs in higher terrain, with trees occupying most of the coastline, allowing for penguins to hide from seals behind them.
 
 Remember that this was an exploratory analysis of this dataset, and followed few biological assumptions. This could probably be seen as a "null model" for plant type distributions, but obviously more rigorous measurements should be used when doing this type of analysis, since terrain coordinates only partially reflect the environment in which plants exist.
-
-
-
+  
+  
+  
 Session Info:
 
 ``` r
