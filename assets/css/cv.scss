@@ -41,7 +41,7 @@ p {
   margin: 10px 20% 10px 20%;
 }
 
-.module {
+#.module {
     padding: 0px 4% 7px 4%;
     position: relative;
     overflow: hidden;
@@ -68,12 +68,13 @@ article {
 
 }
 
-module articleh {
+#module articleh {
   position: relative;
   width: 50%;
   height: 50%;
   margin: auto;
   margin-top: 25%;
+  background: green;
 }
 
 img{
