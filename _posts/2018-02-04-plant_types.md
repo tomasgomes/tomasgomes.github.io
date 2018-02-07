@@ -3,7 +3,7 @@ title: "What Would Grow in Antarctica?"
 layout: post
 date: "2018-02-04 21:05:00 +0000"
 categories: rblogging
-tags: ecology plants random forest
+tags: [ecology, plants, random-forest]
 ---
 
 
