@@ -49,6 +49,7 @@ p {
     margin-bottom: 38px;
     border-left: 8px solid #000;
     border-top: 8px solid #000;
+    overflow: hidden;
 }
 
 section {
@@ -74,13 +75,12 @@ article {
   height: 50%;
   margin: auto;
   margin-top: 25%;
-  background: green;
 }
 
 img{
   margins: 10px 0px 0px 25px;
   padding: 20px 0px 0px 140px;
-  max-width: 250px;
+  max-width: 188px;
   max-height: 250px;
   float:left;
 }
